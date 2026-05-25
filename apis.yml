@@ -1,0 +1,81 @@
+aid: polestar-cars
+name: Polestar
+description: >-
+  Polestar is a Swedish premium electric performance car brand, originally
+  spun out of Volvo Cars' Polestar Performance racing arm and now jointly
+  owned by Volvo Cars and Zhejiang Geely Holding Group. Headquartered in
+  Gothenburg, Sweden and publicly listed on Nasdaq (ticker PSNY) since 2022,
+  Polestar designs and sells a lineup of battery-electric vehicles — Polestar
+  1 (discontinued hybrid GT), Polestar 2 (fastback), Polestar 3 (SUV
+  manufactured in South Carolina and Chengdu), Polestar 4 (SUV coupe), and
+  the upcoming Polestar 5 GT. The vehicles run a Google Automotive
+  Services–based infotainment platform with Google built-in (Maps, Assistant,
+  Play Store), and support NACS-compatible DC fast charging in North
+  America. Polestar emphasizes sustainability through the Polestar 0 project
+  (climate-neutral car by 2030) and partnerships with Circulor for battery
+  traceability. Polestar does not currently publish or document a public
+  developer API, SDK, OEM connected-car API, or partner integration
+  programme; all known third-party Polestar integrations (Home Assistant,
+  community Python clients) rely on reverse-engineering the unauthenticated
+  customer app endpoints and are explicitly unsupported by Polestar.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Electric Vehicles
+  - EV
+  - Connected Cars
+  - Premium Vehicles
+  - Sustainability
+  - Battery Electric
+  - Performance Cars
+  - Google Automotive Services
+  - Volvo
+  - Geely
+url: https://raw.githubusercontent.com/api-evangelist/polestar-cars/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.polestar.com
+  - type: About
+    url: https://www.polestar.com/global/about/
+  - type: Cars
+    url: https://www.polestar.com/global/cars/
+  - type: Polestar2
+    url: https://www.polestar.com/global/polestar-2/
+  - type: Polestar3
+    url: https://www.polestar.com/global/polestar-3/
+  - type: Polestar4
+    url: https://www.polestar.com/global/polestar-4/
+  - type: Polestar5
+    url: https://www.polestar.com/global/polestar-5/
+  - type: Sustainability
+    url: https://www.polestar.com/global/sustainability/
+  - type: Newsroom
+    url: https://media.polestar.com
+  - type: InvestorRelations
+    url: https://investors.polestar.com
+  - type: Careers
+    url: https://www.polestar.com/global/careers/
+  - type: Support
+    url: https://www.polestar.com/global/support/
+  - type: Charging
+    url: https://www.polestar.com/global/charging/
+  - type: GitHub
+    url: https://github.com/polestar
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/polestarcars
+  - type: Twitter
+    url: https://twitter.com/PolestarCars
+  - type: YouTube
+    url: https://www.youtube.com/@polestarcars
+  - type: Instagram
+    url: https://www.instagram.com/polestarcars
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
