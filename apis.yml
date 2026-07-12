@@ -40,6 +40,10 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/polestar-cars-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/polestar-cars-domain-security.yml
   - type: Website
     url: https://www.polestar.com
   - type: About
@@ -76,6 +80,8 @@ common:
     url: https://www.youtube.com/@polestarcars
   - type: Instagram
     url: https://www.instagram.com/polestarcars
+  - url: https://www.polestar.com/global/news/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
