@@ -19,9 +19,20 @@ description: >-
   community Python clients) rely on reverse-engineering the unauthenticated
   customer app endpoints and are explicitly unsupported by Polestar.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/polestar-cars.png
 tags:
   - Automotive
   - Electric Vehicles
