@@ -47,7 +47,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/polestar-c
 tags:
   - Automotive
   - Electric Vehicles
-  - Connected Car
+  - Connected Vehicles
   - Premium Vehicles
   - Sustainability
   - Battery Electric
@@ -69,6 +69,7 @@ tags_raw:
   - Volvo
   - Geely
   - Sweden
+  - Connected Car
 url: https://raw.githubusercontent.com/api-evangelist/polestar-cars/refs/heads/main/apis.yml
 created: '2026-05-25'
 modified: '2026-05-25'
